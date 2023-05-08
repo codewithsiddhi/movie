@@ -1,0 +1,23 @@
+.home{
+    background-image: url(./donald-duck-498512_1920.jpg);
+    width: 78rem;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+ .row7{
+    background-image: url(./car-wallpapers-2300576_1920.jpg);
+    width: 78rem;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 6rem;
+    margin: 2rem;
+ }  
+
+
+   
+
